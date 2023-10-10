@@ -25,7 +25,3 @@ npm install @react-native-async-storage/async-storage
 
 
 *Colocar suas credenciais do firebase em src/config/firebase.js*
-
-Expo Image Picker
------------------
-npx expo install expo-image-picker
